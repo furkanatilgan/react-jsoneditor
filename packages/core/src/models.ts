@@ -8,7 +8,7 @@ import {
   // SortDirection as SortDirectionEnum,
   // ValidationError,
   // ValidationSeverity as ValidationSeverityEnum,
-} from 'vanilla-jsoneditor';
+} from 'gm-vanilla-jsoneditor';
 
 export type Mode = keyof typeof ModeEnum;
 
